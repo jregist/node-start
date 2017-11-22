@@ -41,8 +41,8 @@ var config = {
   batchSize: 20,
   jsonMessage: true,
   awsConfig: {
-    accessKeyId: 'AKIAJUVT3LR2IZDEXL7Q',
-    secretAccessKey: '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',
+    accessKeyId: '',
+    secretAccessKey: '',
     region: 'us-east-1'
   },
   formatLog: function (item) {
