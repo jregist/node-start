@@ -1,0 +1,12 @@
+{
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "editor.fontSize": 18,
+    "editor.tabSize": 2,
+    "files.exclude": {
+         "**/.git": true,
+        "**/.DS_Store": true,
+        "**/*.js.map": true,
+        "**/*.js": {"when": "$(basename).ts"}
+},
+"window.zoomLevel": 2,
+"workbench.iconTheme": "material-icon-theme" }
